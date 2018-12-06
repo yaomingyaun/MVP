@@ -1,0 +1,3 @@
+include ':app', ':mvp1', ':day8rikao'
+include ':library'
+include ':xListView'
